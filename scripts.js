@@ -1,4 +1,3 @@
-<script>
 document.addEventListener('DOMContentLoaded', function() {
     // Get the toggle button and nav links elements
     const toggleMenu = document.querySelector('.toggle-menu');
@@ -18,4 +17,3 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
-</script>
